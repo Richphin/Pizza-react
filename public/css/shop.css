@@ -1,0 +1,23 @@
+.navbar-form .form-control {
+    display: inline-block;
+    width: 600px;
+    vertical-align: middle;
+}
+.carousel-content{
+    height: 500px;
+    margin-bottom: 10px;
+    position: top;
+}
+.item .item-active{
+	height: 550px;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+}
+.jumbotron {
+      margin-bottom: 0;
+      height: 100px;
+    }
